@@ -1,0 +1,16 @@
+* {
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+}
+
+
+.img-froggy {
+    display: block;
+    max-width: 100%;
+    margin-bottom: 50px;
+}
+
+.img-defense {
+    max-width: 100%;
+}
